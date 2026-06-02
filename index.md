@@ -1,5 +1,5 @@
 # Privacy Policy — ArkeDrive
-
+🇮🇹 Italiano · [🇬🇧 English](./en)
 **Ultimo aggiornamento: 2 giugno 2026**
 
 ArkeDrive ("l'App") è sviluppata da Angelo Loperfido ("noi", "lo sviluppatore"). Questa Privacy Policy descrive come l'App tratta i dati dell'utente.
