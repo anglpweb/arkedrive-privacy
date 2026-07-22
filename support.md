@@ -1,5 +1,7 @@
 # Supporto - ArkeDrive
 
+Italiano · [English](./en/support.html)
+
 Per assistenza su ArkeDrive puoi contattare lo sviluppatore via email.
 
 **Email supporto:** anglp79@gmail.com
