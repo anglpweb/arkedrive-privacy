@@ -1,0 +1,21 @@
+# Supporto - ArkeDrive
+
+Per assistenza su ArkeDrive puoi contattare lo sviluppatore via email.
+
+**Email supporto:** anglp79@gmail.com
+
+## Prima di scrivere
+
+Quando richiedi supporto, indica se possibile:
+
+- modello del dispositivo;
+- versione iOS;
+- versione di ArkeDrive;
+- descrizione del problema;
+- passaggi per riprodurlo.
+
+## Privacy
+
+La Privacy Policy di ArkeDrive e' disponibile qui:
+
+[Privacy Policy](./)
