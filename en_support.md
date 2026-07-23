@@ -4,7 +4,7 @@
 
 For support with ArkeDrive, you can contact the developer by email.
 
-**Support email:** anglp79@gmail.com
+**Support email:** support.arkedrive@icloud.com
 
 ## Before Contacting Support
 
